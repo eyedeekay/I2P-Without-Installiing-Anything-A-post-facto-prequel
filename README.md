@@ -6,8 +6,9 @@ daily I2P.zip jpackage. I build this from i2p.firefox, better known the
 Easy-Install Bundle for Windows.
 
 This is an "Experts Only" procedure which will not recieve automatic updates.
-This produces a "Portable" installation which be carried on a USB drive or SD
-card between Windows devices.
+This produces a "Portable" installation(not a real installation) which be
+carried on a USB drive or SD card between Windows devices. It does not affect
+the host system in any way.
 
 To obtain the `I2P.zip` file of the type used in this video you need to go to
 my **[i2p.firefox daily releases](https://github.com/eyedeekay/i2p.firefox/releases)**.
