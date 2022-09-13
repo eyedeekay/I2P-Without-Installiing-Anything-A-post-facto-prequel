@@ -9,6 +9,9 @@ This is an "Experts Only" procedure which will not recieve automatic updates.
 This produces a "Portable" installation which be carried on a USB drive or SD
 card between Windows devices.
 
+To obtain the `I2P.zip` file of the type used in this video you need to go to
+my **[i2p.firefox daily releases](https://github.com/eyedeekay/i2p.firefox/releases)**.
+
 Watch Below
 -----------
 
