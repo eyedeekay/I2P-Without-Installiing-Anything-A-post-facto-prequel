@@ -1,10 +1,13 @@
 I2P Without installing Anything(Portable)
 =========================================
 
-5 minute video on how to run the jpackaged I2P router without installing, by
-using a daily `I2P.zip` package. This is an "Experts Only" procedure which
-will not recieve automatic updates. This produces a "Portable" installation
-which be carried on a USB drive or SD card between Windows devices.
+This is a 5 minute video on how to run the jpackaged I2P router using only a
+daily I2P.zip jpackage. I build this from i2p.firefox, better known the
+Easy-Install Bundle for Windows.
+
+This is an "Experts Only" procedure which will not recieve automatic updates.
+This produces a "Portable" installation which be carried on a USB drive or SD
+card between Windows devices.
 
 Watch Below
 -----------
