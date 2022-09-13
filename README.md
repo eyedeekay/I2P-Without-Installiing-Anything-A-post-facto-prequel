@@ -1,5 +1,5 @@
-I2P Easy Install the Movie
-==========================
+I2P Without installing Anything(Portable)
+=========================================
 
 5 minute video on how to run the jpackaged I2P router without installing
 using a daily `I2P.zip` package.
